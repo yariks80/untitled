@@ -6,5 +6,8 @@ public class Main {
 
         System.out.println("dfffggg");
         System.out.println("dfffggg");
+        System.out.println("dfffggg");
+        System.out.println("dfffggg");
+        System.out.println("dfffggg");
     }
 }
